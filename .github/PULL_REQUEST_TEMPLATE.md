@@ -4,9 +4,7 @@
 
 # Detalle de la actividad, menor a 50 caracteres 🧩
 -
-1- Cambio de nombre del archivo "index.html" a "marcos.html"
-2- Codificacion de pagina Home basica
-3- Apruebeme porfa c:
+Cambio de nombre del archivo "index.html" a "marcos.html" y codificacion de pagina Home basica. Apruebeme porfa c:
 
 ## Tipo de Actividad 📜
 - [ ] New feature (agregar una nueva funcionalidad) 
